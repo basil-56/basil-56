@@ -1,5 +1,13 @@
 # 💫 About Me:
-I’m currently working on: Building scalable Generative AI products using LangGraph and the OpenAI SDK to solve real-world business problems.<br><br>I’m looking to collaborate on: Open-source AI agents, innovative LLM applications, and projects involving n8n automation or FastAPI backends.<br><br>I’m looking for help with: Mastering advanced model deployment strategies and connecting with the global tech entrepreneurship community.<br><br>I’m currently learning: Deep learning research with PyTorch and exploring the capabilities of latest models like Veo3 and Llama.<br><br>Ask me about: Data Science, AI Engineering, Streamlit dashboards, and building automated workflows with n8n.
+🔭 I’m currently working on: Building scalable Generative AI products using LangGraph and FastAPI.
+
+👯 I’m looking to collaborate on: Open-source AI agents and enterprise-grade n8n automation workflows.
+
+🤝 I’m looking for help with: Connecting with global tech mentors and mastering advanced model deployment.
+
+🌱 I’m currently learning: Deep Learning research with PyTorch and fine-tuning Llama/DeepSeek models.
+
+💬 Ask me about: AI Engineering, Data Science, and building end-to-end LLM applications.
 
 
 ## 🌐 Socials:
